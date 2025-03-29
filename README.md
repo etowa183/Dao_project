@@ -10,4 +10,8 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
+this is just a dummy line to verify github vscode intergration
+jhfhkj
+lcgjhjh
+,fgttygb
 ```
